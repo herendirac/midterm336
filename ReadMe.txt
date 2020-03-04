@@ -1,10 +1,10 @@
-Theory Questions and Code 
+Theory Questions
 Author: Herendira Camarillo 
 ID: 003047524
 CST336 - Internet Programming Midterm   
 Date: March 4, 2020
 
-===Theory Questions ===
+====== Theory Questions ======
 1. 
 2.
 3.
