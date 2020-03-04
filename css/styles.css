@@ -1,0 +1,89 @@
+body
+{
+    background-color:black;
+    color:white;
+    text-align: center;
+}
+header,main,nav,footer
+{
+    text-align:center;
+}
+table
+{
+    margin:0px auto;
+}
+td
+{
+    padding-right:10px;
+    font-size:1.3em;
+}
+td strong
+{
+    color:purple;
+}
+#table-header
+{
+    background-color:#00CBFF;
+}
+.table-row
+{
+    background-color:#C06EED;
+    color:pink;
+}
+ul
+{
+    width:500px;
+    margin:0 auto;
+    text-align:left;
+}
+.hobby
+{
+    color: #00CBFF;
+}
+h1
+{
+    font-family: 'Indie Flower', cursive;
+    font-size:4em;
+    margin-bottom:0px;
+}
+
+nav a
+{ /*links within "nav" container */
+    padding:15px;
+    padding-bottom:4px;
+    font-size:1.8em;
+    text-decoration:none; /*removes undeline*/
+    color:red; /*by default,links are blue*/
+}
+nav a:hover 
+{ /*pseudo class*/
+    border-bottom:2px orange solid;
+    font-size: 2em;
+    transition: .9s; /*transition effect*/
+}
+nav .current
+{
+    background-color: yellow;
+    font-size:50px;
+}
+
+.link 
+{
+    font-size:40px;
+}
+
+#welcomeText
+{
+    color:#00CBFF;
+}
+#footerText
+{
+    color:#D2D04E;
+    font-size:11px;
+}
+        
+main
+{
+    display: flex;
+    justify-content:center;
+}
